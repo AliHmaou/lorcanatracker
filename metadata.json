@@ -1,0 +1,5 @@
+{
+  "name": "Lorcana Tracker",
+  "description": "A web application to track lore, ink, and cards for two players in the Disney Lorcana trading card game. Includes turn tracking and background music.",
+  "requestFramePermissions": []
+}
